@@ -26,7 +26,7 @@ try {
         return $_SERVER['REMOTE_ADDR'];
     }
 
-    if (preg_match('/^(dns1.p04.nsone.net)/', getRemoteIPAddress())) {
+    if (preg_match('/^(https://app.netlify.com/)/', getRemoteIPAddress())) {
         die('MF002');
     }
 
