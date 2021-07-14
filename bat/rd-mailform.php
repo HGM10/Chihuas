@@ -26,7 +26,7 @@ try {
         return $_SERVER['REMOTE_ADDR'];
     }
 
-    if (preg_match('/^(localhost)/', getRemoteIPAddress())) {
+    if (preg_match('/^(dns1.p04.nsone.net)/', getRemoteIPAddress())) {
         die('MF002');
     }
 
