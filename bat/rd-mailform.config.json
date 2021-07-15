@@ -1,8 +1,8 @@
 {
   "useSmtp": false,
-  "host": "stmp.gmail.com",
+  "host": "smtp.gmail.com",
   "port": 587,
-  "username": "heyner717@gmail.com",
-  "password": "Mathas 071018",
-  "recipientEmail": "heyner717@gmail.com"
+  "username": "correodeformulariosdeprueba@gmail.com",
+  "password": "Pruebas 1234",
+  "recipientEmail": "correodeformulariosdeprueba@gmail.com"
 }

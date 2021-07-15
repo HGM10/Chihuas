@@ -69,7 +69,7 @@ class PHPMailer
      * The From email address for the message.
      * @type string
      */
-    public $From = 'heyner717@gmail.com';
+    public $From = 'parapruebas24desitiosweb.com';
 
     /**
      * The From name of the message.
@@ -82,7 +82,7 @@ class PHPMailer
      * If not empty, will be sent via -f to sendmail or as 'MAIL FROM' in smtp mode.
      * @type string
      */
-    public $Sender = 'heyner717@gmail.com';
+    public $Sender = 'parapruebas24desitiosweb';
 
     /**
      * The Return-Path of the message.
@@ -259,13 +259,13 @@ class PHPMailer
      * SMTP username.
      * @type string
      */
-    public $Username = 'heyner717@gmail.com';
+    public $Username = 'parapruebas24desitiosweb';
 
     /**
      * SMTP password.
      * @type string
      */
-    public $Password = 'Mathias 071018';
+    public $Password = 'gmail2363';
 
     /**
      * SMTP auth type.
